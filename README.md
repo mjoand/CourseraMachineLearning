@@ -1,2 +1,2 @@
 # CourseraMachineLearning
-University of Washington Machine Learning Certification
+Repository for Course Work
